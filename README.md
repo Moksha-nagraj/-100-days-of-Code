@@ -1,2 +1,2 @@
-# -100-days-of-Code
+# 100-days-of-Code
 Learning Python Bootcamp by Angela
